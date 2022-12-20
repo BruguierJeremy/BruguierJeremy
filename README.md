@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Symfony and React**
+- 💬 Ask me about **Symfony**
 
 - 📫 How to reach me **jeremybruguier0@gmail.com**
 
